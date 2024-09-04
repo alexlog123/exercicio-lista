@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    border-bottom: 2px solid;
+    padding: 2px;
+    width: 50%;
+}
+
+.total {
+    margin: 15px;
+    padding: 5px;
+}
+
+li {
+    padding: 2px;
+}
